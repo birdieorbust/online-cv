@@ -45,7 +45,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        Since getting a 1st class honours in Financial Economics from Swansea University I've become passionate about helping SMEs make sense of their vast amount of digital data.
+        Since getting a 1st class honours in Financial Economics from Swansea University I've become passionate about helping SMEs make sense of their vast amounts of digital data.
         
         I'm looking to improve my experience in the following areas...
         
@@ -66,8 +66,8 @@ experiences:
         I'm currently part of the analytics and data science team within Travelsupermarket - a meta search comparison site offering package holiday and car hire products. Our team is focussed in delivering projects within the below areas...
         
           - Strategic Insight - supervised modelling and AB testing to aid product optimisation.
-          - Business Intelligence -  admins of our visualisation software and
-          - Data Engineering - constructing pipelines to move relevant third party data into datamarts  
+          - Business Intelligence -  admins of our reporting and visualisation software.
+          - Data Engineering - constructing pipelines to move relevant third party data into datamarts.
 
     - role: Marketing Data Analyst
       time: 2015 - 2017
@@ -80,7 +80,7 @@ experiences:
       time: 2014 - 2015
       company: Travelodge Hotels Limited 
       details: |
-        Within the finance department I built and maintained operational dashboards in Qlikview. Worked closely with the business's customer NPS data.
+        Within the finance department I built and maintained operational dashboards in Qlikview. I worked closely with the business's NPS data.
 
 projects:
 
