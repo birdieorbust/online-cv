@@ -3,169 +3,129 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Sam Hall
-    tagline: Data Science & Web Analytics
+    tagline: Web Analytics & Data Science
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: sam.dc.hall@gmail.com
-    phone: 
+    phone: available on request 
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: birdieobust
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
+    linkedin: https://www.linkedin.com/in/sam-hall-68b19153/
+    github: birdieorbust
+    #gitlab:
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
 
     languages:
       - idiom: English
         level: Native
         
     interests:
+    
+      - item: Data Science & Tech Meetups
+        link: https://www.londonr.org/
+        
       - item: Surfing
-        link:
+        link: https://imgur.com/a/klHfzm8
 
       - item: Cycling
-        link:
+        link: https://www.strava.com/athletes/14989572
 
       - item: Hockey
-        link:
+        link: Henley HC | Thame HC | Swansea University HC
+        
+      - item: Golf
+        link: SWGC
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
-
+        Since getting a 1st class honours in Financial Economics from Swansea University. I've been pursuing a career in web analytics and data science.
+        
+        I'm looking to improve my experience in the following areas...
+        
+        - Machine learning in production environemnts - recommenders, customer value, attribution.
+        - Data engineering
+        - Ma
+            
 education:
     - degree: BSc in Economics
       university: University of Swansea
       time: 2011 - 2014
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
 
 experiences:
     - role: Data Scientist
       time: 2017 - Present
       company: TravelSupmarket, London
       details: |
-        Part of the analytics and data science team within TravelSupermarket, the travel vertical of MoneySupermarket.
+        Currently part of the analytics and data science team within Travelsupermarket - a meta search comparison site offering package holiday and car hire products. Our team is focussed in three areas...
         
-          - Amazon Redshift/Spectrum
-          - Google BigQuery
-          - Linux experience
+          - Strategic Insight - supervised modelling and AB testing to aid product optimisation.
+          - Business Intelligence -  reporting owners of the Tableau server 
+          - Data Engineering - constructed pipelines to move white label data into datamarts  
 
     - role: Marketing Data Analyst
       time: 2015 - 2017
       company: The Share Centre
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Based in the marketing team I helped run and analyse performance of the website. I collaberated with agencies to ensure we achieved CPA across core channels.
 
     - role: Reporting Analyst
-      time: 2012 - 2014
-      company: Travellodge, Oxfordshire
+      time: 2014 - 2015
+      company: Travelodge Hotels Limited 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Within the finance department I built and maintained operational dashboards in Qlikview. Worked closely with the business's customer feedback data.
 
 projects:
-    title: Some TSM project
+
+    title: GDPR @ TravelSupermarket
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        Worked with the email service provider to ensure that TravelSupermarket were GDPR compliant before May 2018.
+      
+    title: SliceOPi @ TravelSupermarket
+    intro: >
+        Built an R package to interact with the external API, process and store data in GCP.
+        
+    title: Preferred List of ETPs
+    intro: >
+        Project managed a the launch a new list of preferred exchange traded funds at The Share Centre.
+        https://www.share.com/investments-and-recommendations/other-investment-tips/our-preferred-etf-etc
+        
+    title: Launched Google Tag Manager
+    intro: >
+        Launched GTM for The Share Centre and moved the company onto Universal Google Analytics.
+        
+    title: Customer Insight Summary
+    intro: >
+        Designed and successfully distributed to 550 recipients Travelodge’s first weekly Customer Insight Summary. Helped drive a 3% point increase in NPS.
+        
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: R (Shiny|package development)
+        level: 75%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Python (Pandas|Sklearn)
+        level: 50%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
+      - name: GCP - BigQuery
+        level: 70%
 
       - name: Ruby on Rails
-        level: 85%
+        level: 50%
 
-      - name: Sketch & Photoshop
+      - name: Google Analytics Premium
+        level: 90%
+
+      - name: Docker
         level: 60%
         
+      - name: AB testing (Optimizely, Adobe Experience Manager)
+        level: 60%
