@@ -83,21 +83,44 @@ experiences:
 
 projects:
 
-    title: GDPR @ TravelSupermarket
+    title: 
     intro: >
-        Worked with our email service provider to ensure that TravelSupermarket became GDPR compliant before May 2018.
+        
       
-    title: Awin @ TravelSupermarket
+    title: 
     intro: >
-        Built a data job to load affiliate channel data into S3 to be consumed via Spectrum.
         
-    title: Preferred List of ETPs
-    intro: >
-        Project managed the launch a new list of preferred exchange traded funds at The Share Centre.
         
-    title: Launched Google Tag Manager
+    title: 
     intro: >
-        Launched GTM for The Share Centre and moved the company onto Universal Google Analytics.
+        
+        
+    title: 
+    intro: >
+       
+
+
+projects:
+    title: Projects
+    intro: >
+      Here is a flavour of the types of projects I've been involved in to date.
+      
+    assignments:
+      - title: GDPR @ TravelSupermarket
+        tagline: "Worked with our email service provider to ensure that TravelSupermarket became GDPR compliant before May 2018."
+
+      - title: Awin @ TravelSupermarket
+        tagline: "Built a data job to load affiliate channel data into S3 to be consumed via Spectrum."
+
+      - title: Preferred List of ETPs @ The Share Centre
+        tagline: "Project managed the launch a new list of preferred exchange traded funds at The Share Centre."
+
+      - title: Launched Google Tag Manager @ The Share Centre
+        tagline: "Launched GTM for The Share Centre and moved the company onto Universal Google Analytics."
+        
+      - title: Customer Insight Summary @ Travelodge
+        tagline: "Designed and successfully distributed to 550 recipients Travelodge’s first weekly Customer Insight Summary. Helped drive a 3% point increase in NPS by highlighting areas of improvement."
+
 
 skills:
     title: Skills &amp; Proficiency
