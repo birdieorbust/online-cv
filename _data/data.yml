@@ -45,13 +45,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        Since getting a 1st class honours in Financial Economics from Swansea University. I've been pursuing a career in web analytics and data science.
+        Since getting a 1st class honours in Financial Economics from Swansea University I've become passionate about helping SMEs make sense of their vast amount of digital data.
         
         I'm looking to improve my experience in the following areas...
         
-        - Machine learning in production environemnts - recommenders, customer value, attribution.
-        - Data engineering
-        - Ma
+        - Machine learning in production environemnts - recommenders, customer lifetime value, attribution.
+        - Data engineering and building pipelines within GCP/AWS/Azure
+        - Alternative web collection infrastructures to Google Analytics.
             
 education:
     - degree: BSc in Economics
@@ -63,38 +63,38 @@ experiences:
       time: 2017 - Present
       company: TravelSupmarket, London
       details: |
-        Currently part of the analytics and data science team within Travelsupermarket - a meta search comparison site offering package holiday and car hire products. Our team is focussed in three areas...
+        I'm currently part of the analytics and data science team within Travelsupermarket - a meta search comparison site offering package holiday and car hire products. Our team is focussed in delivering projects within the below areas...
         
           - Strategic Insight - supervised modelling and AB testing to aid product optimisation.
-          - Business Intelligence -  reporting owners of the Tableau server 
-          - Data Engineering - constructed pipelines to move white label data into datamarts  
+          - Business Intelligence -  admins of our visualisation software and
+          - Data Engineering - constructing pipelines to move relevant third party data into datamarts  
 
     - role: Marketing Data Analyst
       time: 2015 - 2017
       company: The Share Centre
       details: |
-        Based in the marketing team I helped run and analyse performance of the website. I collaberated with agencies to ensure we achieved CPA across core channels.
+        Based in the marketing team I helped run and analyse performance of the website. I collaberated with digital agencies to ensure we achieved CPA across core channels.
+        I was also respsonible for tag management and the Google Analytics owner within the business.
 
     - role: Reporting Analyst
       time: 2014 - 2015
       company: Travelodge Hotels Limited 
       details: |
-        Within the finance department I built and maintained operational dashboards in Qlikview. Worked closely with the business's customer feedback data.
+        Within the finance department I built and maintained operational dashboards in Qlikview. Worked closely with the business's customer NPS data.
 
 projects:
 
     title: GDPR @ TravelSupermarket
     intro: >
-        Worked with the email service provider to ensure that TravelSupermarket were GDPR compliant before May 2018.
+        Worked with our email service provider to ensure that TravelSupermarket became GDPR compliant before May 2018.
       
-    title: SliceOPi @ TravelSupermarket
+    title: Awin @ TravelSupermarket
     intro: >
-        Built an R package to interact with the external API, process and store data in GCP.
+        Built a data job to load affiliate channel data into S3 to be consumed via Spectrum.
         
     title: Preferred List of ETPs
     intro: >
-        Project managed a the launch a new list of preferred exchange traded funds at The Share Centre.
-        https://www.share.com/investments-and-recommendations/other-investment-tips/our-preferred-etf-etc
+        Project managed the launch a new list of preferred exchange traded funds at The Share Centre.
         
     title: Launched Google Tag Manager
     intro: >
@@ -102,14 +102,14 @@ projects:
         
     title: Customer Insight Summary
     intro: >
-        Designed and successfully distributed to 550 recipients Travelodge’s first weekly Customer Insight Summary. Helped drive a 3% point increase in NPS.
+        Designed and successfully distributed to 550 recipients Travelodge’s first weekly Customer Insight Summary. Helped drive a 3% point increase in NPS by highlighting areas of improvement.
         
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: R (Shiny|package development)
+      - name: Google Analytics Premium
         level: 75%
 
       - name: Python (Pandas|Sklearn)
@@ -121,8 +121,8 @@ skills:
       - name: Ruby on Rails
         level: 50%
 
-      - name: Google Analytics Premium
-        level: 90%
+      - name: R (Shiny|package development)
+        level: 70%
 
       - name: Docker
         level: 60%
