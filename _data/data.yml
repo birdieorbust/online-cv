@@ -14,7 +14,6 @@ sidebar:
     # Sidebar links
     email: sam.dc.hall@gmail.com
     phone: available on request 
-    website: blog.webjeda.com #do not add http://
     linkedin: https://www.linkedin.com/in/sam-hall-68b19153/
     github: birdieorbust
     #gitlab:
@@ -47,11 +46,7 @@ career-profile:
     summary: |
         Since getting a 1st class honours in Financial Economics from Swansea University. I've been pursuing a career in web analytics and data science.
         
-        I'm looking to improve my experience in the following areas...
-        
-        - Machine learning in production environemnts - recommenders, customer value, attribution.
-        - Data engineering
-        - Ma
+        I’m looking to continue my involvement in SMEs which put high emphasis on predictive analytics, product experimentation and truely recognise the value in Machine Learning via open source technologies. 
             
 education:
     - degree: BSc in Economics
@@ -67,7 +62,9 @@ experiences:
         
           - Strategic Insight - supervised modelling and AB testing to aid product optimisation.
           - Business Intelligence -  reporting owners of the Tableau server 
-          - Data Engineering - constructed pipelines to move white label data into datamarts  
+          - Data Engineering - constructed pipelines to move white label data into datamarts
+          
+        Within the role I have a soft alignment to the marketing team wherby I am familar with SEO, PPC, CRM, PR and affiliate marketing.
 
     - role: Marketing Data Analyst
       time: 2015 - 2017
@@ -82,14 +79,23 @@ experiences:
         Within the finance department I built and maintained operational dashboards in Qlikview. Worked closely with the business's customer feedback data.
 
 projects:
-
+    
+    title: SEO & Template Redesign
+    intro: >
+        Informed via ensemble methods a new landing page template design. Tested via Causal Inference analysis.
+        See the EARL talk my colleague and I presented in September 2019 in relation to this.
+    
     title: GDPR @ TravelSupermarket
     intro: >
         Worked with the email service provider to ensure that TravelSupermarket were GDPR compliant before May 2018.
       
+    title: Destination Clustering
+    intro: >
+        Using Hierarchical clustering to group similar destinations/products on the site together for commercial and content use.
+    
     title: SliceOPi @ TravelSupermarket
     intro: >
-        Built an R package to interact with the external API, process and store data in GCP.
+        Built an R package to interact with the external API, process and store data in BigQuery/GCP.
         
     title: Preferred List of ETPs
     intro: >
@@ -114,6 +120,12 @@ skills:
 
       - name: Python (Pandas|Sklearn)
         level: 50%
+        
+      - name: Supervised & Unsupervised ML methods - XGBOOST
+        level: 50%
+        
+      - name: Time Series Modelling - Econometrics & ML (ARIMA, Holt Winters, BSTS) 
+        level: 60%
 
       - name: GCP - BigQuery
         level: 70%
