@@ -81,7 +81,7 @@ experiences:
         Within the finance department I built and maintained operational dashboards in Qlikview. I worked closely with the business's NPS data.
 
 projects:
-
+    title: Projects
     intro: >
       Here is a flavour of the types of projects I've been involved in to date.
       
@@ -123,7 +123,7 @@ skills:
       - name: Python (Pandas|Sklearn)
         level: 50%
         
-      - name: Supervised & Unsupervised ML methods - XGBOOST
+      - name: Supervised & Unsupervised ML methods
         level: 50%
         
       - name: Time Series Modelling - Econometrics & ML (ARIMA, Holt Winters, BSTS) 
