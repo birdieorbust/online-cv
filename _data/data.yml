@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: sam.dc.hall@gmail.com
     phone: available on request 
-    linkedin: https://www.linkedin.com/in/sam-hall-68b19153/
+    linkedin: /sam-hall-68b19153/
     github: birdieorbust
     #gitlab:
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -64,15 +64,15 @@ experiences:
           - Business Intelligence -  reporting owners of the Tableau server 
           - Data Engineering - constructed pipelines to move white label data into datamarts
           
-        Within the role I have a soft alignment to the marketing team wherby I am familar with SEO, PPC, CRM, PR and affiliate marketing.
+        Within the role I have a soft alignment to the marketing team whereby I've furthered experience with SEO, PPC, CRM, PR and affiliate marketing.
 
 
     - role: Marketing Data Analyst
       time: 2015 - 2017
       company: The Share Centre
       details: |
-        Based in the marketing team I helped run and analyse performance of the website. I collaberated with digital agencies to ensure we achieved CPA across core channels.
-        I was also respsonible for tag management and the Google Analytics owner within the business.
+        Based in the marketing team I helped run and analyse performance of the website. I collaberated with digital agencies to ensure we achieved target CPA across channels.
+        I was also responsible for tag management and the Google Analytics within the business.
 
     - role: Reporting Analyst
       time: 2014 - 2015
@@ -95,7 +95,7 @@ projects:
         tagline: "Using Hierarchical clustering to group similar destinations/products on the site together for commercial and content use."
       
       - title: SliceOPi @ TravelSupermarket
-        tagline: "Built an R package to interact with the external API, process and store data in BigQuery/GCP."
+        tagline: "Built an R package to interact with the external SEO data provider, process and store data in BigQuery/GCP."
     
       - title: GDPR @ TravelSupermarket
         tagline: "Worked with our email service provider to ensure that TravelSupermarket became GDPR compliant before May 2018."
