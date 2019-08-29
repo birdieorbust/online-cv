@@ -44,7 +44,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        Since getting a 1st class honours in Financial Economics from Swansea University. I've been pursuing a career in web analytics and data science.
+        Since getting a 1st class honours in Financial Economics from Swansea University I've become passionate about helping SMEs make sense of their vast amounts of digital data.
         
         I’m looking to continue my involvement in SMEs which put high emphasis on predictive analytics, product experimentation and truely recognise the value in Machine Learning via open source technologies. 
             
@@ -56,9 +56,9 @@ education:
 experiences:
     - role: Data Scientist
       time: 2017 - Present
-      company: TravelSupmarket, London
+      company: TravelSupermarket, London
       details: |
-        Currently part of the analytics and data science team within Travelsupermarket - a meta search comparison site offering package holiday and car hire products. Our team is focussed in three areas...
+        I'm currently part of the analytics and data science team within Travelsupermarket - a meta search comparison site offering package holiday and car hire products. Our team is focussed in delivering projects within the below areas...
         
           - Strategic Insight - supervised modelling and AB testing to aid product optimisation.
           - Business Intelligence -  reporting owners of the Tableau server 
@@ -66,56 +66,58 @@ experiences:
           
         Within the role I have a soft alignment to the marketing team wherby I am familar with SEO, PPC, CRM, PR and affiliate marketing.
 
+
     - role: Marketing Data Analyst
       time: 2015 - 2017
       company: The Share Centre
       details: |
-        Based in the marketing team I helped run and analyse performance of the website. I collaberated with agencies to ensure we achieved CPA across core channels.
+        Based in the marketing team I helped run and analyse performance of the website. I collaberated with digital agencies to ensure we achieved CPA across core channels.
+        I was also respsonible for tag management and the Google Analytics owner within the business.
 
     - role: Reporting Analyst
       time: 2014 - 2015
       company: Travelodge Hotels Limited 
       details: |
-        Within the finance department I built and maintained operational dashboards in Qlikview. Worked closely with the business's customer feedback data.
+        Within the finance department I built and maintained operational dashboards in Qlikview. I worked closely with the business's NPS data.
 
 projects:
-    
-    title: SEO & Template Redesign
+
     intro: >
-        Informed via ensemble methods a new landing page template design. Tested via Causal Inference analysis.
-        See the EARL talk my colleague and I presented in September 2019 in relation to this.
-    
-    title: GDPR @ TravelSupermarket
-    intro: >
-        Worked with the email service provider to ensure that TravelSupermarket were GDPR compliant before May 2018.
+      Here is a flavour of the types of projects I've been involved in to date.
       
-    title: Destination Clustering
-    intro: >
-        Using Hierarchical clustering to group similar destinations/products on the site together for commercial and content use.
+    assignments:
     
-    title: SliceOPi @ TravelSupermarket
-    intro: >
-        Built an R package to interact with the external API, process and store data in BigQuery/GCP.
+      - title: SEO & Template Redesign
+        tagline: "Informed via ensemble methods a new landing page template design. Tested via Causal Inference analysis.See the EARL talk my colleague and I presented in September 2019 in relation to this."
+        link: "#"
+    
+      - title: Destination Clustering
+        tagline: "Using Hierarchical clustering to group similar destinations/products on the site together for commercial and content use."
+      
+      - title: SliceOPi @ TravelSupermarket
+        tagline: "Built an R package to interact with the external API, process and store data in BigQuery/GCP."
+    
+      - title: GDPR @ TravelSupermarket
+        tagline: "Worked with our email service provider to ensure that TravelSupermarket became GDPR compliant before May 2018."
+
+      - title: Awin @ TravelSupermarket
+        tagline: "Built a data job to load affiliate channel data into S3 to be consumed via Spectrum."
+
+      - title: Preferred List of ETPs @ The Share Centre
+        tagline: "Project managed the launch a new list of preferred exchange traded funds at The Share Centre."
+
+      - title: Launched Google Tag Manager @ The Share Centre
+        tagline: "Launched GTM for The Share Centre and moved the company onto Universal Google Analytics."
         
-    title: Preferred List of ETPs
-    intro: >
-        Project managed a the launch a new list of preferred exchange traded funds at The Share Centre.
-        https://www.share.com/investments-and-recommendations/other-investment-tips/our-preferred-etf-etc
-        
-    title: Launched Google Tag Manager
-    intro: >
-        Launched GTM for The Share Centre and moved the company onto Universal Google Analytics.
-        
-    title: Customer Insight Summary
-    intro: >
-        Designed and successfully distributed to 550 recipients Travelodge’s first weekly Customer Insight Summary. Helped drive a 3% point increase in NPS.
-        
+      - title: Customer Insight Summary @ Travelodge
+        tagline: "Designed and successfully distributed to 550 recipients Travelodge’s first weekly Customer Insight Summary. Helped drive a 3% point increase in NPS by highlighting areas of improvement."
+
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: R (Shiny|package development)
+      - name: Google Analytics Premium
         level: 75%
 
       - name: Python (Pandas|Sklearn)
@@ -133,8 +135,8 @@ skills:
       - name: Ruby on Rails
         level: 50%
 
-      - name: Google Analytics Premium
-        level: 90%
+      - name: R (Shiny|package development)
+        level: 70%
 
       - name: Docker
         level: 60%
