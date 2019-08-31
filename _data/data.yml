@@ -44,9 +44,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        Since getting a 1st class honours in Financial Economics from Swansea University I've become passionate about helping SMEs make sense of their vast amounts of digital data.
+        Since getting a 1st class honours in Financial Economics from Swansea University in 2014 I've become passionate about helping SMEs make sense of their vast amounts of digital data.
         
-        I’m looking to continue my involvement in SMEs which put high emphasis on predictive analytics, product experimentation and truely recognise the value in Machine Learning via open source technologies. 
+        I’m looking to continue my involvement in SMEs which put high emphasis on predictive analytics, product experimentation and truely recognise the value in data science via open source technologies. 
             
 education:
     - degree: BSc in Economics
@@ -56,7 +56,7 @@ education:
 experiences:
     - role: Data Scientist
       time: 2017 - Present
-      company: TravelSupermarket, London
+      company: TravelSupermarket (MoneySupermarket), London
       details: |
         I'm currently part of the analytics and data science team within Travelsupermarket - a meta search comparison site offering package holiday and car hire products. Our team is focussed in delivering projects within the below areas...
         
@@ -89,13 +89,13 @@ projects:
     
       - title: SEO & Template Redesign
         tagline: "Informed via ensemble methods a new landing page template design. Tested via Causal Inference analysis.See the EARL talk my colleague and I presented in September 2019 in relation to this."
-        link: "#"
+        link: "https://earlconf.com/assets/EARL%20London%20Agenda%202019%20-%20Web.pdf"
     
       - title: Destination Clustering
         tagline: "Using Hierarchical clustering to group similar destinations/products on the site together for commercial and content use."
       
       - title: SliceOPi @ TravelSupermarket
-        tagline: "Built an R package to interact with the external SEO data provider, process and store data in BigQuery/GCP."
+        tagline: "Built an R package to interact with an external SEO data provider, process and store data in BigQuery/GCP."
     
       - title: GDPR @ TravelSupermarket
         tagline: "Worked with our email service provider to ensure that TravelSupermarket became GDPR compliant before May 2018."
