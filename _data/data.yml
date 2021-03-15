@@ -1,5 +1,5 @@
 #
-# Be aware that even a small syntax error here can lead to failures in output. 
+# Be aware that even a small syntax error here can lead to failures in output.
 #
 
 sidebar:
@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: sam.dc.hall@gmail.com
-    phone: available on request 
+    phone: available on request
     linkedin: sam-hall-68b19153
     github: birdieorbust
     #gitlab:
@@ -23,12 +23,12 @@ sidebar:
     languages:
       - idiom: English
         level: Native
-        
+
     interests:
-    
+
       - item: Data Science & Tech Meetups
         link: https://www.londonr.org/
-        
+
       - item: Surfing
         link: https://imgur.com/a/klHfzm8
 
@@ -37,7 +37,7 @@ sidebar:
 
       - item: Hockey
         link: Henley HC | Thame HC | Swansea University HC
-        
+
       - item: Golf
         link: SWGC
 
@@ -45,25 +45,35 @@ career-profile:
     title: Career Profile
     summary: |
         Since getting a 1st class honours in Financial Economics from Swansea University in 2014 I've become passionate about helping SMEs make sense of their vast amounts of digital data.
-        
-        I’m looking to continue my involvement in SMEs which put high emphasis on predictive analytics, product experimentation and truely recognise the value in data science via open source technologies. 
-            
+
+        I’m looking to continue my involvement in organisations which put high emphasis on predictive analytics, product experimentation and truely recognise the value in data science via open source technologies.
+
 education:
     - degree: BSc in Economics
       university: University of Swansea
       time: 2011 - 2014
 
 experiences:
-    - role: Data Scientist
-      time: 2017 - Present
-      company: TravelSupermarket (MoneySupermarket), London
+
+    - role: Interim Analytics Lead
+      time: 2021 - present
+      company: TravelSupermarket & MoneySavingExpert (Moneysupermarket Group)
       details: |
-        I'm currently part of the analytics and data science team within Travelsupermarket - a meta search comparison site offering package holiday and car hire products. Our team is focussed in delivering projects within the below areas...
-        
+        I am now an interim lead of a small high performant analytics team across the TravelSupermarket & MoneySavingExpert brands. I advise senior leadership teams across brands with their product experimentation and data strategy.
+    - role: Senior Data Scientist
+      time: 2019 - 2021
+      company: TravelSupermarket & MoneySavingExpert (Moneysupermarket Group)
+      details: |
+    - role: Data Scientist
+      time: 2017 - 2019
+      company: TravelSupermarket (Moneysupermarket Group), London
+      details: |
+        Currently part of the analytics and data science team within Travelsupermarket - a meta search comparison site offering package holiday and car hire products. Our team is focussed in delivering projects within the below areas...
+
           - Strategic Insight - supervised modelling and AB testing to aid product optimisation.
-          - Business Intelligence -  reporting owners of the Tableau server 
+          - Business Intelligence -  reporting owners of the Tableau server
           - Data Engineering - constructed pipelines to move white label data into datamarts
-          
+
         Within the role I have a soft alignment to the marketing team whereby I've furthered experience with SEO, PPC, CRM, PR and affiliate marketing.
 
 
@@ -76,7 +86,7 @@ experiences:
 
     - role: Reporting Analyst
       time: 2014 - 2015
-      company: Travelodge Hotels Limited 
+      company: Travelodge Hotels Limited
       details: |
         Within the finance department I built and maintained operational dashboards in Qlikview. I worked closely with the business's NPS data.
 
@@ -84,32 +94,38 @@ projects:
     title: Projects
     intro: >
       Here is a flavour of the types of projects I've been involved in to date.
-      
+
     assignments:
-    
-      - title: SEO & Template Redesign
+
+      - title: MoneySavingExpert Data Landscape Redevelopment 2020
+        tagline: "Managed and led a project which reduced the brands reliance on third party data collection by implementing a first party event service."
+
+      - title: TSM Event Migration 2020
+        tagline: "Migrated the site's first party event service to AWS Kinesis, improving data reliability and enhancing trust in the brand's data."
+
+      - title: SEO & Template Redesign 2019
         tagline: "Informed via ensemble methods a new landing page template design. Tested via Causal Inference analysis.See the EARL talk my colleague and I presented in September 2019 in relation to this."
         link: "https://earlconf.com/assets/EARL%20London%20Agenda%202019%20-%20Web.pdf"
-    
-      - title: Destination Clustering
+
+      - title: Destination Clustering 2018
         tagline: "Using Hierarchical clustering to group similar destinations/products on the site together for commercial and content use."
-      
-      - title: SliceOPi @ TravelSupermarket
+
+      - title: SliceOPi @ TravelSupermarket 2018
         tagline: "Built an R package to interact with an external SEO data provider, process and store data in BigQuery/GCP."
-    
-      - title: GDPR @ TravelSupermarket
+
+      - title: GDPR @ TravelSupermarket 2018
         tagline: "Worked with our email service provider to ensure that TravelSupermarket became GDPR compliant before May 2018."
 
-      - title: Awin @ TravelSupermarket
+      - title: Awin @ TravelSupermarket 2019
         tagline: "Built a data job to load affiliate channel data into S3 to be consumed via Spectrum."
 
-      - title: Preferred List of ETPs @ The Share Centre
+      - title: Preferred List of ETPs @ The Share Centre 2017
         tagline: "Project managed the launch a new list of preferred exchange traded funds at The Share Centre."
 
-      - title: Launched Google Tag Manager @ The Share Centre
+      - title: Launched Google Tag Manager @ The Share Centre 2017
         tagline: "Launched GTM for The Share Centre and moved the company onto Universal Google Analytics."
-        
-      - title: Customer Insight Summary @ Travelodge
+
+      - title: Customer Insight Summary @ Travelodge 2015
         tagline: "Designed and successfully distributed to 550 recipients Travelodge’s first weekly Customer Insight Summary. Helped drive a 3% point increase in NPS by highlighting areas of improvement."
 
 
@@ -122,11 +138,11 @@ skills:
 
       - name: Python (Pandas|Sklearn)
         level: 50%
-        
+
       - name: Supervised & Unsupervised ML methods
         level: 50%
-        
-      - name: Time Series Modelling - Econometrics & ML (ARIMA, Holt Winters, BSTS) 
+
+      - name: Time Series Modelling - Econometrics & ML (ARIMA, Holt Winters, BSTS)
         level: 60%
 
       - name: GCP - BigQuery
@@ -140,6 +156,6 @@ skills:
 
       - name: Docker
         level: 60%
-        
+
       - name: AB testing (Optimizely, Adobe Experience Manager)
         level: 60%

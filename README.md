@@ -2,4 +2,4 @@
 
 > Template is forked from sharu725
 
-Add your own data into the data.yml file.
+Repo containing information on my career projects to date.
