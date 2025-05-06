@@ -147,7 +147,7 @@ skills:
       - name: SQL
         level: 90%
 
-      - name: Python (Pandas|Sklearn)
+      - name: Python (Pandas|Sklearn|Django)
         level: 80%
 
       - name: Data Modelling & ETL(DBT)
@@ -165,10 +165,7 @@ skills:
       - name: Data Engineering (Airflow DAG Orchestration)
         level: 70%
       
-      - name: Django for Web Apps
-        level: 70%
-      
-      - name: Docker
+      - name: CI/CD Pipelines & Docker Image management
         level: 70%
 
       - name: R (Shiny|package development)
