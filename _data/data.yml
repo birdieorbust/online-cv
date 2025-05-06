@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Sam Hall
-    tagline: Web Analytics & Data Science
+    tagline: Data & Analytics Lead
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -29,24 +29,21 @@ sidebar:
       - item: Data Science & Tech Meetups
         link: https://www.londonr.org/
 
+      - item: Golf (10.2 WHS Index)
+
       - item: Surfing
         link: https://imgur.com/a/klHfzm8
 
-      - item: Cycling
+      - item: Cycling / Running Middle-Long Distance
         link: https://www.strava.com/athletes/14989572
 
-      - item: Hockey
-        link: Henley HC | Thame HC | Swansea University HC
-
-      - item: Golf
-        link: SWGC
 
 career-profile:
     title: Career Profile
     summary: |
-        Since getting a 1st class honours in Financial Economics from Swansea University in 2014 I've become passionate about helping SMEs make sense of their vast amounts of digital data.
-
-        I’m looking to continue my involvement in organisations which put high emphasis on predictive analytics, product experimentation and truely recognise the value in data science via open source technologies.
+        I'm a tech-savvy data enthusiast with a knack for turning numbers into narratives that drive real-world impact. Over the past 10 years, I've been on a mission to help companies unlock the true potential of their data—whether that's in e-commerce, price comparison platforms, or the fast-paced world of financial services.
+        These days, I lead a brilliant team at OnBuy.com, where we manage everything from cloud data infrastructure to advanced analytics and data science. I wear multiple hats: part team leader, part hands-on builder. Beyond guiding strategy, I'm deeply involved in creating powerful data products, spearheading the use of AI and large language models to supercharge operations.
+        In short: I love data, I love solving problems, and I thrive at the intersection of people, platforms, and possibility.
 
 education:
     - degree: BSc in Economics
@@ -55,11 +52,17 @@ education:
 
 experiences:
 
-    - role: Interim Analytics Lead
+    - role: Lead Data Scientist (Data Analytics Team Lead)
       time: 2021 - present
+      company: OnBuy
+      details: |
+        British retail two sided marketplace. (Sunday Times fastest growing tech companies 2025 placed 42nd)[https://www.thetimes.com/sunday-times-100-tech/software-league-table].
+        I lead a small team on product experimentation, analytics and data engineering.
+    - role: Interim Analytics Lead
+      time: 2021 - 2021
       company: TravelSupermarket & MoneySavingExpert (Moneysupermarket Group)
       details: |
-        I am now an interim lead of a small high performant analytics team across the TravelSupermarket & MoneySavingExpert brands. I advise senior leadership teams across brands with their product experimentation and data strategy.
+        Due to a paternity cover role I was a interim lead of a small high performant analytics team across the TravelSupermarket & MoneySavingExpert brands. I advise senior leadership teams across brands with their product experimentation and data strategy.
     - role: Senior Data Scientist
       time: 2019 - 2021
       company: TravelSupermarket & MoneySavingExpert (Moneysupermarket Group)
@@ -68,7 +71,7 @@ experiences:
       time: 2017 - 2019
       company: TravelSupermarket (Moneysupermarket Group), London
       details: |
-        Currently part of the analytics and data science team within Travelsupermarket - a meta search comparison site offering package holiday and car hire products. Our team is focussed in delivering projects within the below areas...
+        I was part of the analytics and data science team within Travelsupermarket - a meta search comparison site offering package holiday and car hire products. Our team is focussed in delivering projects within the below areas...
 
           - Strategic Insight - supervised modelling and AB testing to aid product optimisation.
           - Business Intelligence -  reporting owners of the Tableau server
@@ -88,7 +91,7 @@ experiences:
       time: 2014 - 2015
       company: Travelodge Hotels Limited
       details: |
-        Within the finance department I built and maintained operational dashboards in Qlikview. I worked closely with the business's NPS data.
+        Within the finance department I built and maintained operational dashboards in Qlik. I worked closely with the business's NPS data.
 
 projects:
     title: Projects
@@ -96,6 +99,14 @@ projects:
       Here is a flavour of the types of projects I've been involved in to date.
 
     assignments:
+      - title: OnBuy Autocategorisation 2025
+        tagline: "Implemented a zero shot product category classification agent using LLMs and RAG based architecture utilising the LangChain Framework."
+
+      - title: OnBuy Search 2024
+        tagline: "Worked on information retrieval problems, ranking and relevancy of customer search"
+
+      - title: OnBuy GCP Platform 
+        tagline: "Led the replication of the businesses first data platform in GCP for realtime analytics and reporting."
 
       - title: MoneySavingExpert Data Landscape Redevelopment 2020
         tagline: "Managed and led a project which reduced the brands reliance on third party data collection by implementing a first party event service."
@@ -133,29 +144,34 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Google Analytics Premium
-        level: 75%
+      - name: SQL
+        level: 90%
 
       - name: Python (Pandas|Sklearn)
-        level: 50%
+        level: 80%
 
-      - name: Supervised & Unsupervised ML methods
-        level: 50%
+      - name: Data Modelling & ETL(DBT)
+        level: 80%
+      
+      - name: Classical ML techniques Supervised & Unsupervised 
+        level: 75%
 
-      - name: Time Series Modelling - Econometrics & ML (ARIMA, Holt Winters, BSTS)
-        level: 60%
-
-      - name: GCP - BigQuery
+      - name: Google Cloud Platform - (BigQuery, Vertex AI, CloudRun, Gemini, Gemma)
+        level: 70%
+      
+      - name: AB testing (Frequentist, Bayesian)
         level: 70%
 
-      - name: Ruby on Rails
-        level: 50%
+      - name: Data Engineering (Airflow, Pub/Sub)
+        level: 70%
+      
+      - name: Docker
+        level: 70%
 
       - name: R (Shiny|package development)
         level: 70%
 
-      - name: Docker
+      - name: Time Series Modelling - Econometrics & ML (ARIMA, Holt Winters, Prophet)
         level: 60%
 
-      - name: AB testing (Optimizely, Adobe Experience Manager)
-        level: 60%
+
