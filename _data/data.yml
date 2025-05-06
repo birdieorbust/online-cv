@@ -56,7 +56,7 @@ experiences:
       time: 2021 - present
       company: OnBuy
       details: |
-        British retail two sided marketplace. (Sunday Times fastest growing tech companies 2025 placed 42nd)[https://www.thetimes.com/sunday-times-100-tech/software-league-table].
+        British retail two sided marketplace. [Sunday Times fastest growing tech companies 2025 placed 42nd](https://www.thetimes.com/sunday-times-100-tech/software-league-table).
         I lead a small team on product experimentation, analytics and data engineering.
     - role: Interim Analytics Lead
       time: 2021 - 2021
@@ -105,8 +105,8 @@ projects:
       - title: OnBuy Search 2024
         tagline: "Worked on information retrieval problems, ranking and relevancy of customer search"
 
-      - title: OnBuy GCP Platform 
-        tagline: "Led the replication of the businesses first data platform in GCP for realtime analytics and reporting."
+      - title: OnBuy GCP Platform 2023
+        tagline: "Led the replication of the businesses first data platform in GCP for realtime analytics and reporting. [I introduced reproducible analytics via DBT as part of this](https://businesscloud.co.uk/opinion/how-why-when-transforming-data-into-trustworthy-metrics/)"
 
       - title: MoneySavingExpert Data Landscape Redevelopment 2020
         tagline: "Managed and led a project which reduced the brands reliance on third party data collection by implementing a first party event service."
@@ -162,10 +162,13 @@ skills:
       - name: AB testing (Frequentist, Bayesian)
         level: 70%
 
-      - name: Data Engineering (Airflow, Pub/Sub)
+      - name: Data Engineering (Airflow DAG Orchestration)
         level: 70%
       
-      - name: Docker
+      - name: Django for Web Apps
+        level: 70%
+      
+      - name: Docker for artifact management
         level: 70%
 
       - name: R (Shiny|package development)
