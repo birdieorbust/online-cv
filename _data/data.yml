@@ -168,7 +168,7 @@ skills:
       - name: Django for Web Apps
         level: 70%
       
-      - name: Docker for artifact management
+      - name: Docker
         level: 70%
 
       - name: R (Shiny|package development)
