@@ -103,7 +103,7 @@ projects:
         tagline: "Implemented a zero shot product category classification agent using LLMs and RAG based architecture utilising the LangChain Framework."
 
       - title: OnBuy Search 2024
-        tagline: "Worked on information retrieval problems, ranking and relevancy of customer search"
+        tagline: "Worked on information retrieval problems, ranking and relevancy of customer search across millions of products."
 
       - title: OnBuy GCP Platform 2023
         tagline: "Led the replication of the businesses first data platform in GCP for realtime analytics and reporting. [I introduced reproducible analytics via DBT as part of this](https://businesscloud.co.uk/opinion/how-why-when-transforming-data-into-trustworthy-metrics/)"
